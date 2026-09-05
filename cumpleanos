@@ -1,4 +1,38 @@
 [
-  { "name": "jhonny latacea", "date": "2026-09-04", "gender": "hombre", "photo": "" },
-  { "name": "ala doer", "date": "2026-06-06", "gender": "mujer", "photo": "ala.jpg" }
+  {
+    "name": "Marlenis Martinez",
+    "date": "2026-09-01",
+    "gender": "mujer",
+    "photo": "pic2.jpg"
+  },
+  {
+    "name": "Elmer Arriaza",
+    "date": "2026-09-01",
+    "gender": "hombre",
+    "photo": ""
+  },
+  {
+    "name": "Guadalupe Cubias",
+    "date": "2026-09-01",
+    "gender": "mujer",
+    "photo": ""
+  },
+  {
+    "name": "Eda Vasquez",
+    "date": "2026-09-01",
+    "gender": "mujer",
+    "photo": "pic4.jpg"
+  },
+  {
+    "name": "Maura Leiva",
+    "date": "2026-09-01",
+    "gender": "mujer",
+    "photo": "pic1.jpg"
+  },
+  {
+    "name": "Peter Vasquez",
+    "date": "2026-09-04",
+    "gender": "hombre",
+    "photo": "pic3.jpg"
+  }
 ]
