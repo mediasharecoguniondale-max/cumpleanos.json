@@ -1,38 +1,50 @@
 [
   {
-    "name": "Marlenis Martinez",
-    "date": "2026-09-01",
-    "gender": "mujer",
-    "photo": "pic2.jpg"
+    "name": "Jonathan Flores",
+    "date": "08 Sep",
+    "gender": "hombre",
+    "photo": "jonathanf.jpg"
   },
   {
-    "name": "Elmer Arriaza",
-    "date": "2026-09-01",
+    "name": "Wiliam Dudon",
+    "date": "07 sep",
+    "gender": "hombre",
+    "photo": "wiliamd.jpg"
+  },
+  {
+    "name": "Kevin Vargas",
+    "date": "07 sep",
     "gender": "hombre",
     "photo": ""
   },
   {
-    "name": "Guadalupe Cubias",
-    "date": "2026-09-01",
+    "name": "Rosa Mancia",
+    "date": "07 sep",
     "gender": "mujer",
     "photo": ""
   },
   {
-    "name": "Eda Vasquez",
-    "date": "2026-09-01",
-    "gender": "mujer",
-    "photo": "pic4.jpg"
-  },
-  {
-    "name": "Maura Leiva",
-    "date": "2026-08-28",
-    "gender": "mujer",
-    "photo": "pic1.jpg"
-  },
-  {
-    "name": "Peter Vasquez",
-    "date": "2026-09-04",
+    "name": "Isaias Sosa",
+    "date": "07 sep",
     "gender": "hombre",
-    "photo": "pic3.jpg"
+    "photo": "isaias.jpg"
+  },
+  {
+    "name": "Mattias Duta",
+    "date": "06 Sep",
+    "gender": "hombre",
+    "photo": "mattiasd.jpg"
+  },
+  {
+    "name": "Cesar Chinchilla",
+    "date": "13 Sep",
+    "gender": "hombre",
+    "photo": "cesarc.jpg"
+  },
+  {
+    "name": "Jaime Salguero",
+    "date": "06 Sep",
+    "gender": "hombre",
+    "photo": ""
   }
 ]
