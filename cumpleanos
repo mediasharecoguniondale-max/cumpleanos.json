@@ -1,50 +1,50 @@
 [
   {
-    "name": "Jonathan Flores",
-    "date": "08 Sep",
-    "gender": "hombre",
-    "photo": "jonathanf.jpg"
-  },
-  {
-    "name": "Wiliam Dudon",
-    "date": "07 sep",
-    "gender": "hombre",
-    "photo": "wiliamd.jpg"
-  },
-  {
-    "name": "Kevin Vargas",
-    "date": "07 sep",
+    "name": "Freddy Jovel",
+    "date": "17 sep",
     "gender": "hombre",
     "photo": ""
   },
   {
-    "name": "Rosa Mancia",
-    "date": "07 sep",
+    "name": "Nelson Amador",
+    "date": "18 sep",
+    "gender": "hombre",
+    "photo": "amadorn.jpg"
+  },
+  {
+    "name": "Marilu Videz",
+    "date": "17 Sep",
     "gender": "mujer",
+    "photo": "mariv.jpg"
+  },
+  {
+    "name": "Milton Castro",
+    "date": "15 Sep",
+    "gender": "hombre",
+    "photo": "miltonc.jpg"
+  },
+  {
+    "name": "Atleta Veliz",
+    "date": "20 sep",
+    "gender": "mujer",
+    "photo": "atletav.jpg"
+  },
+  {
+    "name": "Martha Acosta",
+    "date": "20 Sep",
+    "gender": "mujer",
+    "photo": "marthaa.jpg"
+  },
+  {
+    "name": "Eduardo Juarez",
+    "date": "19 Sep",
+    "gender": "hombre",
     "photo": ""
   },
   {
-    "name": "Isaias Sosa",
-    "date": "07 sep",
+    "name": "Steven Carbajal",
+    "date": "20 Sep",
     "gender": "hombre",
-    "photo": "isaias.jpg"
-  },
-  {
-    "name": "Mattias Duta",
-    "date": "06 Sep",
-    "gender": "hombre",
-    "photo": "mattiasd.jpg"
-  },
-  {
-    "name": "Cesar Chinchilla",
-    "date": "13 Sep",
-    "gender": "hombre",
-    "photo": "cesarc.jpg"
-  },
-  {
-    "name": "Jaime Salguero",
-    "date": "06 Sep",
-    "gender": "hombre",
-    "photo": ""
+    "photo": "stivenc.jpg"
   }
 ]
