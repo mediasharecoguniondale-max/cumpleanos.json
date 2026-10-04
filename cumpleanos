@@ -1,55 +1,19 @@
 [
   {
-    "name": "Johnathan Pierre",
-    "date": "21 Sep",
+    "name": "Omar Gonzalez",
+    "date": "02 Oct",
     "gender": "hombre",
-    "photo": "Johnp.jpg"
+    "photo": "Omargonz.jpg"
   },
   {
-    "name": "Steven Gonzales",
-    "date": "22 Seo",
-    "gender": "hombre",
-    "photo": "steven.jpg"
-  },
-  {
-    "name": "victor Garcia",
-    "date": "21 Sep",
-    "gender": "hombre",
-    "photo": "victorg.jpg"
-  },
-  {
-    "name": "Minerva Williams",
-    "date": "23 Sep",
+    "name": "Blanca  Cañeneguez",
+    "date": "03 Oct",
     "gender": "mujer",
     "photo": ""
   },
   {
-    "name": "Rosalina Carbajal",
-    "date": "23 Sep",
-    "gender": "mujer",
-    "photo": "Rosalina.jpg"
-  },
-  {
-    "name": "Estela Cruz",
-    "date": "25 Sep",
-    "gender": "mujer",
-    "photo": "StelaCruz.jpg"
-  },
-  {
-    "name": "Amy Videz",
-    "date": "25 SEp",
-    "gender": "mujer",
-    "photo": ""
-  },
-  {
-    "name": "Ruxel Castro",
-    "date": "27 Sep",
-    "gender": "hombre",
-    "photo": "ruxelc.jpg"
-  },
-  {
-    "name": "Edita Carbajal",
-    "date": "27 Sep",
+    "name": "Lorena Isis",
+    "date": "01 Oct",
     "gender": "mujer",
     "photo": ""
   }
