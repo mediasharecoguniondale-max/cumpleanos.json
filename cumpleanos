@@ -1,20 +1,26 @@
 [
   {
-    "name": "Omar Gonzalez",
-    "date": "02 Oct",
+    "name": "Brandon Quintanilla",
+    "date": "06 Oct",
     "gender": "hombre",
-    "photo": "Omargonz.jpg"
+    "photo": "BrabdonQ.jpg"
   },
   {
-    "name": "Blanca  Cañeneguez",
-    "date": "03 Oct",
+    "name": "Jennifer Portillo",
+    "date": "08 Oct",
     "gender": "mujer",
-    "photo": ""
+    "photo": "Jenniferp.jpg"
   },
   {
-    "name": "Lorena Isis",
-    "date": "01 Oct",
-    "gender": "mujer",
+    "name": "Fidelino Carbajal",
+    "date": "09 Oct",
+    "gender": "hombre",
+    "photo": "fidelinoc.jpg"
+  },
+  {
+    "name": "Josue Hernandez",
+    "date": "11 Oct",
+    "gender": "hombre",
     "photo": ""
   }
 ]
