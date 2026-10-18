@@ -1,26 +1,62 @@
 [
   {
-    "name": "Brandon Quintanilla",
-    "date": "06 Oct",
-    "gender": "hombre",
-    "photo": "BrabdonQ.jpg"
-  },
-  {
-    "name": "Jennifer Portillo",
-    "date": "08 Oct",
+    "name": "Jenny Videz",
+    "date": "12 Oct",
     "gender": "mujer",
-    "photo": "Jenniferp.jpg"
+    "photo": "jvidez.jpg"
   },
   {
-    "name": "Fidelino Carbajal",
-    "date": "09 Oct",
+    "name": "Daniel Castro",
+    "date": "14 Oct",
     "gender": "hombre",
-    "photo": "fidelinoc.jpg"
+    "photo": "danielc.jpg"
   },
   {
-    "name": "Josue Hernandez",
-    "date": "11 Oct",
-    "gender": "hombre",
+    "name": "Beery Mendoza",
+    "date": "14 Oct",
+    "gender": "mujer",
     "photo": ""
+  },
+  {
+    "name": "Yesenia Carbajal",
+    "date": "18 Oct",
+    "gender": "mujer",
+    "photo": "carbajaly.jpg"
+  },
+  {
+    "name": "Yessica Sabillon",
+    "date": "16 Oct",
+    "gender": "mujer",
+    "photo": "sibilon.jpg"
+  },
+  {
+    "name": "Nathalia Leiva",
+    "date": "17 Oct",
+    "gender": "mujer",
+    "photo": "leiva.jpg"
+  },
+  {
+    "name": "Jr Dougles Cortez",
+    "date": "10 Oct",
+    "gender": "hombre",
+    "photo": "cortez.jpg"
+  },
+  {
+    "name": "Joel Castro",
+    "date": "18 Oct",
+    "gender": "hombre",
+    "photo": "Castro.jpg"
+  },
+  {
+    "name": "Alex Pineda",
+    "date": "14 Oct",
+    "gender": "hombre",
+    "photo": "pineda.jpg"
+  },
+  {
+    "name": "Esmeralda Videz",
+    "date": "16 Oct",
+    "gender": "mujer",
+    "photo": "videz.jpg"
   }
 ]
