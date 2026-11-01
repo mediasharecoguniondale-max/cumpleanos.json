@@ -1,14 +1,50 @@
 [
   {
     "name": "Nuvia Vargas",
-    "date": "21 oct",
+    "date": "21 Oct",
     "gender": "mujer",
     "photo": ""
   },
   {
     "name": "Johnathan Castellanos",
-    "date": "24 OCt",
+    "date": "24 Oct",
     "gender": "hombre",
     "photo": ""
+  },
+  {
+    "name": "Alejandra Serrano",
+    "date": "26 Oct",
+    "gender": "mujer",
+    "photo": "aserrano.jpg"
+  },
+  {
+    "name": "Jesus Reinoso",
+    "date": "27 Oct",
+    "gender": "hombre",
+    "photo": "jreinoso.jpg"
+  },
+  {
+    "name": "Alejandra Garcia",
+    "date": "27 Oct",
+    "gender": "mujer",
+    "photo": "agracia.jpg"
+  },
+  {
+    "name": "Stephenie Martinez",
+    "date": "30 Oct",
+    "gender": "mujer",
+    "photo": "smartinez.jpg"
+  },
+  {
+    "name": "Nathanael Carbajal",
+    "date": "27 oct",
+    "gender": "hombre",
+    "photo": ""
+  },
+  {
+    "name": "Joel Castro",
+    "date": "30 oct",
+    "gender": "hombre",
+    "photo": "jcastro.jpg"
   }
 ]
