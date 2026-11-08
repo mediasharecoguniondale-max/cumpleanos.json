@@ -1,50 +1,56 @@
 [
   {
-    "name": "Nuvia Vargas",
-    "date": "21 Oct",
+    "name": "Reina Pineda",
+    "date": "02 Nov",
+    "gender": "mujer",
+    "photo": "ReinaP.jpg"
+  },
+  {
+    "name": "Tatiana Romero",
+    "date": "02 Nov",
     "gender": "mujer",
     "photo": ""
   },
   {
-    "name": "Johnathan Castellanos",
-    "date": "24 Oct",
+    "name": "Wendy Carbajal",
+    "date": "03 Nov",
+    "gender": "mujer",
+    "photo": "wendyC.jpg"
+  },
+  {
+    "name": "Jose Muños",
+    "date": "04 Nov",
+    "gender": "hombre",
+    "photo": "Josem.jpg"
+  },
+  {
+    "name": "Joshua Mendoza",
+    "date": "07 Nov",
     "gender": "hombre",
     "photo": ""
   },
   {
-    "name": "Alejandra Serrano",
-    "date": "26 Oct",
-    "gender": "mujer",
-    "photo": "aserrano.jpg"
-  },
-  {
-    "name": "Jesus Reinoso",
-    "date": "27 Oct",
+    "name": "Abraham Sosa",
+    "date": "06 Nov",
     "gender": "hombre",
-    "photo": "jreinoso.jpg"
+    "photo": "abrahams.jpg"
   },
   {
-    "name": "Alejandra Garcia",
-    "date": "27 Oct",
-    "gender": "mujer",
-    "photo": "agracia.jpg"
+    "name": "Sebastian Carbajal",
+    "date": "04 Nov",
+    "gender": "hombre",
+    "photo": "sebac.jpg"
   },
   {
-    "name": "Stephenie Martinez",
-    "date": "30 Oct",
-    "gender": "mujer",
-    "photo": "smartinez.jpg"
-  },
-  {
-    "name": "Nathanael Carbajal",
-    "date": "27 oct",
+    "name": "Yael Orozco",
+    "date": "05 Nov",
     "gender": "hombre",
     "photo": ""
   },
   {
-    "name": "Joel Castro",
-    "date": "30 oct",
+    "name": "Ps Rafael Carbajal",
+    "date": "05 Nov",
     "gender": "hombre",
-    "photo": "jcastro.jpg"
+    "photo": "rafaC.jpg"
   }
 ]
