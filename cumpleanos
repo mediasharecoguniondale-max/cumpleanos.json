@@ -1,56 +1,62 @@
 [
   {
-    "name": "Reina Pineda",
-    "date": "02 Nov",
+    "name": "Chelsea Martinez",
+    "date": "09 Nov",
     "gender": "mujer",
-    "photo": "ReinaP.jpg"
+    "photo": "chelseam.jpg"
   },
   {
-    "name": "Tatiana Romero",
-    "date": "02 Nov",
+    "name": "Maribel Salguero",
+    "date": "11 Nov",
     "gender": "mujer",
-    "photo": ""
+    "photo": "maribels.jpg"
   },
   {
-    "name": "Wendy Carbajal",
-    "date": "03 Nov",
+    "name": "Victor Garcia",
+    "date": "10 Nov",
+    "gender": "hombre",
+    "photo": "Victorg.jpg"
+  },
+  {
+    "name": "Bianney Javier",
+    "date": "12 Nov",
     "gender": "mujer",
-    "photo": "wendyC.jpg"
+    "photo": "Bianneyj.jpg"
   },
   {
-    "name": "Jose Muños",
-    "date": "04 Nov",
-    "gender": "hombre",
-    "photo": "Josem.jpg"
+    "name": "Iris Vasquez",
+    "date": "11 Nov",
+    "gender": "mujer",
+    "photo": "irisv.jpg"
   },
   {
-    "name": "Joshua Mendoza",
-    "date": "07 Nov",
+    "name": "Elvis Pinto",
+    "date": "13 Nov",
     "gender": "hombre",
-    "photo": ""
+    "photo": "elvisp.jpg"
   },
   {
-    "name": "Abraham Sosa",
-    "date": "06 Nov",
-    "gender": "hombre",
-    "photo": "abrahams.jpg"
+    "name": "Mirna Carbajal",
+    "date": "13 Nov",
+    "gender": "mujer",
+    "photo": "mirnac.jpg"
   },
   {
-    "name": "Sebastian Carbajal",
-    "date": "04 Nov",
-    "gender": "hombre",
-    "photo": "sebac.jpg"
+    "name": "Thelma Mendez",
+    "date": "13 Nov",
+    "gender": "mujer",
+    "photo": "Thelmam.jpg"
   },
   {
-    "name": "Yael Orozco",
-    "date": "05 Nov",
-    "gender": "hombre",
-    "photo": ""
+    "name": "Martha Salguero",
+    "date": "12 Nov",
+    "gender": "mujer",
+    "photo": "marthas.jpg"
   },
   {
-    "name": "Ps Rafael Carbajal",
-    "date": "05 Nov",
-    "gender": "hombre",
-    "photo": "rafaC.jpg"
+    "name": "Miriam Eucada",
+    "date": "15 Nov",
+    "gender": "mujer",
+    "photo": "miriame.jpg"
   }
 ]
