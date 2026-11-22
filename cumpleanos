@@ -1,62 +1,44 @@
 [
   {
-    "name": "Chelsea Martinez",
-    "date": "09 Nov",
-    "gender": "mujer",
-    "photo": "chelseam.jpg"
-  },
-  {
-    "name": "Maribel Salguero",
-    "date": "11 Nov",
-    "gender": "mujer",
-    "photo": "maribels.jpg"
-  },
-  {
-    "name": "Victor Garcia",
-    "date": "10 Nov",
+    "name": "David Carbajal",
+    "date": "16 Nov",
     "gender": "hombre",
-    "photo": "Victorg.jpg"
+    "photo": "Screenshot 2026-11-11 at 1.38.06 PM.png"
   },
   {
-    "name": "Bianney Javier",
-    "date": "12 Nov",
-    "gender": "mujer",
-    "photo": "Bianneyj.jpg"
-  },
-  {
-    "name": "Iris Vasquez",
-    "date": "11 Nov",
-    "gender": "mujer",
-    "photo": "irisv.jpg"
-  },
-  {
-    "name": "Elvis Pinto",
-    "date": "13 Nov",
+    "name": "Milton Portillo",
+    "date": "17 Nov",
     "gender": "hombre",
-    "photo": "elvisp.jpg"
+    "photo": "Miltonp.jpg"
   },
   {
-    "name": "Mirna Carbajal",
-    "date": "13 Nov",
+    "name": "Joselyn Chinchilla",
+    "date": "19 Nov",
     "gender": "mujer",
-    "photo": "mirnac.jpg"
+    "photo": "Chinchilla.jpg"
   },
   {
-    "name": "Thelma Mendez",
-    "date": "13 Nov",
-    "gender": "mujer",
-    "photo": "Thelmam.jpg"
+    "name": "Obeniel Chinchilla",
+    "date": "21 Nov",
+    "gender": "hombre",
+    "photo": "Chinchilla.jpg"
   },
   {
-    "name": "Martha Salguero",
-    "date": "12 Nov",
+    "name": "Lanin Agustin",
+    "date": "18 Nov",
     "gender": "mujer",
-    "photo": "marthas.jpg"
+    "photo": ""
   },
   {
-    "name": "Miriam Eucada",
-    "date": "15 Nov",
+    "name": "Amalia Valdez",
+    "date": "16 Nov",
     "gender": "mujer",
-    "photo": "miriame.jpg"
+    "photo": ""
+  },
+  {
+    "name": "Israel Estrada",
+    "date": "20 Nov",
+    "gender": "hombre",
+    "photo": "Israele.jpg"
   }
 ]
